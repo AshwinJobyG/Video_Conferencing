@@ -196,14 +196,10 @@ npm start
    - Ensure MongoDB is running
    - Verify the connection string in `app.js`
 
-## 📄 License
 
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
+## 👥 Author
 
-## 👥 Authors
-
-- **Apna College** - Initial work
-- **Your Name** - Additional features and improvements
+- **ASHWIN JOBY GEORGE** 
 
 ## 🙏 Acknowledgments
 
